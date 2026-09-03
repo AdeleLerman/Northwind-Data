@@ -13,11 +13,7 @@ This project uses MySQL to analyze customer orders, products, and sales data. Th
 * **Listed products** associated with each order
 * **Calculated total sales** by product category
 
-## Technologies
-
-* **MySQL**
-* **SQL**
-
 ## Files
 
 * **MySql-DataAnalysis.sql** — SQL queries and analysis
+* **Northwind Data.pdf** - Project presentation and findings
